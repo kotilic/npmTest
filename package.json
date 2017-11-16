@@ -2,7 +2,7 @@
   "name": "yarn_test",
   "version": "1.0.0",
   "description": "this is a yarn test and docker test",
-  "main": "index.js",
+  "main": "lib/index.js",
   "license": "MIT",
   "devDependencies": {
     "chalk": "^2.2.0",
