@@ -1,0 +1,21 @@
+{
+  "name": "yarn_test",
+  "version": "1.0.0",
+  "description": "this is a yarn test and docker test",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^2.2.0",
+    "chokidar": "^1.7.0",
+    "element-theme-default": "git+https://github.com/ElementUI/theme-default.git",
+    "fs-extra": "^4.0.2",
+    "gh-pages": "^1.0.0",
+    "lerna": "^2.5.1",
+    "request": "^2.83.0",
+    "rollup": "^0.50.0"
+  },
+  "dependencies": {
+    "element-ui": "^2.0.3",
+    "outils": "^1.0.3"
+  }
+}
