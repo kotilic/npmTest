@@ -28,7 +28,8 @@
   ],
   "dependencies": {
     "element-ui": "^2.0.3",
-    "outils": "^1.0.3"
+    "outils": "^1.0.3",
+    "vue": "^2.5.9"
   },
   "config": {
     "commitizen": {
