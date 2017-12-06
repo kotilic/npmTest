@@ -1,0 +1,1 @@
+const theme = require('element-theme-default')
